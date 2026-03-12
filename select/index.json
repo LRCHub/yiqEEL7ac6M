@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "匿名M（feat. Hatsune Miku、Arufa）",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-03-12T13:48:44.318883Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "匿名M (feat. 初音ミク & ARuFa)",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_匿名M_(feat._初音ミク_&_ARuFa)_ピノキオピー.txt"
+    }
+  ]
+}
