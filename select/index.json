@@ -1,16 +1,59 @@
 {
   "version": 1,
-  "base_track": "匿名M（feat. Hatsune Miku、Arufa）",
+  "base_track": "匿名M",
   "base_artist": "ピノキオピー",
-  "createdAt": "2026-03-12T13:48:44.318883Z",
+  "createdAt": "2026-03-18T14:49:26.060860Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "匿名M - Anonymous M (feat. Hatsune Miku & Arufa)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/01_匿名M_-_Anonymous_M_(feat._Hatsune_Miku_&_Arufa)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "匿名M - Anonymous M",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/02_匿名M_-_Anonymous_M_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "匿名M - Anonymous M (feat. Hatsune Miku & Arufa)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/03_匿名M_-_Anonymous_M_(feat._Hatsune_Miku_&_Arufa)_PinocchioP.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "匿名M (feat. 初音ミク & ARuFa)",
+      "title": "匿名M",
       "artist": "ピノキオピー",
       "has_synced": false,
-      "path": "select/pl_01_匿名M_(feat._初音ミク_&_ARuFa)_ピノキオピー.txt"
+      "path": "select/pl_01_匿名M_ピノキオピー.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "匿名M",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/localdb_01_匿名M_ピノキオピー.lrc",
+      "repo_name": "yiqEEL7ac6M"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "匿名M",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/localdb_01_匿名M_ピノキオピー.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "yiqEEL7ac6M"
     }
   ]
 }
